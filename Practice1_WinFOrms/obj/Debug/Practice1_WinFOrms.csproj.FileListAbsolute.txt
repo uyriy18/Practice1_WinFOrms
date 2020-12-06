@@ -12,3 +12,15 @@ C:\Users\User\source\repos\Practice1_WinFOrms\Practice1_WinFOrms\bin\Debug\Datab
 C:\Users\User\source\repos\Practice1_WinFOrms\Practice1_WinFOrms\bin\Debug\Database1_log.ldf
 C:\Users\User\source\repos\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.Form_Admin.resources
 C:\Users\User\source\repos\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.Form_User.resources
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\bin\Debug\Practice1_WinFOrms.exe.config
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\bin\Debug\Practice1_WinFOrms.exe
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\bin\Debug\Practice1_WinFOrms.pdb
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.csprojAssemblyReference.cache
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.Form_Authorization.resources
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.Form_Admin.resources
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.Form_User.resources
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.Properties.Resources.resources
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.csproj.GenerateResource.cache
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.csproj.CoreCompileInputs.cache
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.exe
+D:\WinForms\Practice1_WinFOrms\Practice1_WinFOrms\Practice1_WinFOrms\obj\Debug\Practice1_WinFOrms.pdb
